@@ -9,7 +9,7 @@ int main()
 	for(i=1; i<=50; i++)
 
 	{
-		printf("%d, ", num);
+		printf("%d\n, ", num);
 		num = num + 2;
 	}
 
